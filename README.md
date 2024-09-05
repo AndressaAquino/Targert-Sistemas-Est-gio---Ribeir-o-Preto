@@ -1,7 +1,3 @@
-﻿# Targert-Sistemas-Est-gio---Ribeir-o-Preto
-
-markdown
-Copiar código
 # Target-Sistemas-Estágio---Ribeirão-Preto
 
 ## 1. Sequência de Fibonacci
